@@ -15,6 +15,9 @@ sites:
   - name: ETU SOAP Platform
     url: https://soap-etu.six-group.com/healthcheck
     method: GET
+  - name: mTLS API Platform
+    url: https://api-cert.six-group.com/healthcheck
+    method: GET
 
 assignees:
   - luispenarrubia
