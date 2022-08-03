@@ -58,19 +58,19 @@
     "url": "https://soap-etu.six-group.com/healthcheck",
     "icon": "https://favicons.githubusercontent.com/soap-etu.six-group.com",
     "slug": "soap-platform-etu",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 583,
-    "timeDay": 564,
+    "timeDay": 563,
     "timeWeek": 583,
     "timeMonth": 581,
     "timeYear": 583,
     "dailyMinutesDown": {
-      "2022-08-03": 1
+      "2022-08-03": 8
     }
   }
 ]
