@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 815,
-    "timeDay": 743,
-    "timeWeek": 816,
+    "timeDay": 740,
+    "timeWeek": 815,
     "timeMonth": 816,
     "timeYear": 815,
     "dailyMinutesDown": {}
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 601,
-    "timeDay": 598,
-    "timeWeek": 605,
+    "timeDay": 601,
+    "timeWeek": 606,
     "timeMonth": 600,
     "timeYear": 601,
     "dailyMinutesDown": {}
@@ -42,18 +42,16 @@
     "slug": "api-platform-etu",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 595,
-    "timeDay": 1115,
+    "timeDay": 1109,
     "timeWeek": 689,
     "timeMonth": 616,
     "timeYear": 595,
-    "dailyMinutesDown": {
-      "2022-08-18": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SOAP Platform (ETU)",
@@ -62,17 +60,15 @@
     "slug": "soap-platform-etu",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 586,
-    "timeDay": 1001,
-    "timeWeek": 657,
+    "timeDay": 999,
+    "timeWeek": 658,
     "timeMonth": 606,
     "timeYear": 586,
-    "dailyMinutesDown": {
-      "2022-08-18": 11
-    }
+    "dailyMinutesDown": {}
   }
 ]
