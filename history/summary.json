@@ -6,8 +6,8 @@
     "slug": "api-platform",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 817,
@@ -16,7 +16,7 @@
     "timeMonth": 832,
     "timeYear": 817,
     "dailyMinutesDown": {
-      "2022-09-11": 0
+      "2022-09-11": 2
     }
   },
   {
@@ -26,9 +26,9 @@
     "slug": "soap-platform",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 602,
     "timeDay": 617,
@@ -36,7 +36,7 @@
     "timeMonth": 610,
     "timeYear": 602,
     "dailyMinutesDown": {
-      "2022-09-11": 0
+      "2022-09-11": 2
     }
   },
   {
