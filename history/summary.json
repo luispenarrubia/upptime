@@ -4,27 +4,29 @@
     "url": "https://api.six-group.com/healthcheck",
     "icon": "https://favicons.githubusercontent.com/api.six-group.com",
     "slug": "api-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 817,
-    "timeDay": 869,
-    "timeWeek": 873,
+    "timeDay": 893,
+    "timeWeek": 875,
     "timeMonth": 832,
     "timeYear": 817,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-11": 0
+    }
   },
   {
     "name": "SOAP Platform",
     "url": "https://soap.six-group.com/healthcheck",
     "icon": "https://favicons.githubusercontent.com/soap.six-group.com",
     "slug": "soap-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 633,
     "timeMonth": 610,
     "timeYear": 602,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-11": 0
+    }
   },
   {
     "name": "API Platform (ETU)",
@@ -47,8 +51,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 597,
-    "timeDay": 605,
-    "timeWeek": 616,
+    "timeDay": 608,
+    "timeWeek": 617,
     "timeMonth": 629,
     "timeYear": 597,
     "dailyMinutesDown": {}
@@ -65,7 +69,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 588,
-    "timeDay": 641,
+    "timeDay": 632,
     "timeWeek": 620,
     "timeMonth": 615,
     "timeYear": 588,
