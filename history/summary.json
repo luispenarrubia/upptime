@@ -2,7 +2,7 @@
   {
     "name": "API Platform",
     "url": "https://api.six-group.com/healthcheck",
-    "icon": "https://favicons.githubusercontent.com/api.six-group.com",
+    "icon": "https://icons.duckduckgo.com/ip3/api.six-group.com.ico",
     "slug": "api-platform",
     "status": "up",
     "uptime": "99.99%",
@@ -11,8 +11,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 822,
-    "timeDay": 880,
-    "timeWeek": 892,
+    "timeDay": 891,
+    "timeWeek": 895,
     "timeMonth": 871,
     "timeYear": 822,
     "dailyMinutesDown": {
@@ -22,7 +22,7 @@
   {
     "name": "SOAP Platform",
     "url": "https://soap.six-group.com/healthcheck",
-    "icon": "https://favicons.githubusercontent.com/soap.six-group.com",
+    "icon": "https://icons.duckduckgo.com/ip3/soap.six-group.com.ico",
     "slug": "soap-platform",
     "status": "up",
     "uptime": "99.99%",
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 605,
-    "timeDay": 622,
-    "timeWeek": 656,
+    "time": 604,
+    "timeDay": 610,
+    "timeWeek": 655,
     "timeMonth": 636,
-    "timeYear": 605,
+    "timeYear": 604,
     "dailyMinutesDown": {
       "2022-09-11": 19
     }
@@ -42,7 +42,7 @@
   {
     "name": "API Platform (ETU)",
     "url": "https://api-etu.six-group.com/healthcheck",
-    "icon": "https://favicons.githubusercontent.com/api-etu.six-group.com",
+    "icon": "https://icons.duckduckgo.com/ip3/api-etu.six-group.com.ico",
     "slug": "api-platform-etu",
     "status": "up",
     "uptime": "100.00%",
@@ -51,7 +51,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 599,
-    "timeDay": 594,
+    "timeDay": 604,
     "timeWeek": 626,
     "timeMonth": 623,
     "timeYear": 599,
@@ -60,7 +60,7 @@
   {
     "name": "SOAP Platform (ETU)",
     "url": "https://soap-etu.six-group.com/healthcheck",
-    "icon": "https://favicons.githubusercontent.com/soap-etu.six-group.com",
+    "icon": "https://icons.duckduckgo.com/ip3/soap-etu.six-group.com.ico",
     "slug": "soap-platform-etu",
     "status": "up",
     "uptime": "100.00%",
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 589,
-    "timeDay": 575,
-    "timeWeek": 598,
-    "timeMonth": 614,
+    "timeDay": 577,
+    "timeWeek": 600,
+    "timeMonth": 613,
     "timeYear": 589,
     "dailyMinutesDown": {}
   }
