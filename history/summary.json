@@ -44,19 +44,19 @@
     "url": "https://api-etu.six-group.com/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/api-etu.six-group.com.ico",
     "slug": "api-platform-etu",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.85%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 602,
-    "timeDay": 1214,
+    "timeDay": 1188,
     "timeWeek": 703,
     "timeMonth": 639,
     "timeYear": 602,
     "dailyMinutesDown": {
-      "2022-10-15": 12
+      "2022-10-15": 31
     }
   },
   {
@@ -66,17 +66,15 @@
     "slug": "soap-platform-etu",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 592,
     "timeDay": 1056,
     "timeWeek": 685,
     "timeMonth": 621,
     "timeYear": 592,
-    "dailyMinutesDown": {
-      "2022-10-15": 11
-    }
+    "dailyMinutesDown": {}
   }
 ]
