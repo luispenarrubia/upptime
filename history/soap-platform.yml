@@ -1,7 +1,7 @@
 url: https://soap.six-group.com/healthcheck
-status: degraded
-code: 503
-responseTime: 20460
-lastUpdated: 2022-11-03T10:39:07.751Z
+status: up
+code: 200
+responseTime: 300
+lastUpdated: 2022-11-03T11:06:46.013Z
 startTime: Mon Feb 07 2022 14:47:59 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
