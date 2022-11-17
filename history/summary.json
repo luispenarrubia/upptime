@@ -4,19 +4,19 @@
     "url": "https://api.six-group.com/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/api.six-group.com.ico",
     "slug": "api-platform",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.66%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.65%",
     "uptimeYear": "99.96%",
     "time": 830,
-    "timeDay": 788,
-    "timeWeek": 817,
+    "timeDay": 777,
+    "timeWeek": 815,
     "timeMonth": 870,
     "timeYear": 830,
     "dailyMinutesDown": {
-      "2022-11-17": 1,
+      "2022-11-17": 7,
       "2022-11-04": 120,
       "2022-11-03": 29,
       "2022-09-11": 19
@@ -34,9 +34,9 @@
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.96%",
     "time": 627,
-    "timeDay": 576,
-    "timeWeek": 593,
-    "timeMonth": 791,
+    "timeDay": 560,
+    "timeWeek": 590,
+    "timeMonth": 790,
     "timeYear": 627,
     "dailyMinutesDown": {
       "2022-11-11": 19,
@@ -50,10 +50,10 @@
     "url": "https://api-etu.six-group.com/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/api-etu.six-group.com.ico",
     "slug": "api-platform-etu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 599,
@@ -62,6 +62,7 @@
     "timeMonth": 576,
     "timeYear": 599,
     "dailyMinutesDown": {
+      "2022-11-17": 2,
       "2022-10-15": 31
     }
   },
@@ -70,17 +71,19 @@
     "url": "https://soap-etu.six-group.com/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/soap-etu.six-group.com.ico",
     "slug": "soap-platform-etu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 590,
-    "timeDay": 540,
+    "timeDay": 523,
     "timeWeek": 566,
     "timeMonth": 568,
     "timeYear": 590,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-17": 2
+    }
   }
 ]
