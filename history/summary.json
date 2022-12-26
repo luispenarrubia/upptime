@@ -51,9 +51,9 @@
     "slug": "api-platform-etu",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 592,
     "timeDay": 603,
@@ -61,7 +61,7 @@
     "timeMonth": 554,
     "timeYear": 592,
     "dailyMinutesDown": {
-      "2022-12-26": 1,
+      "2022-12-26": 7,
       "2022-11-17": 20,
       "2022-10-15": 31
     }
@@ -72,18 +72,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/soap-etu.six-group.com.ico",
     "slug": "soap-platform-etu",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 582,
     "timeDay": 595,
     "timeWeek": 535,
     "timeMonth": 545,
     "timeYear": 582,
     "dailyMinutesDown": {
-      "2022-12-26": 1,
+      "2022-12-26": 7,
       "2022-11-17": 20
     }
   }
