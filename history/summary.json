@@ -4,9 +4,9 @@
     "url": "https://api.six-group.com/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/api.six-group.com.ico",
     "slug": "api-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -16,6 +16,7 @@
     "timeMonth": 780,
     "timeYear": 799,
     "dailyMinutesDown": {
+      "2023-01-25": 0,
       "2022-11-04": 120,
       "2022-11-03": 29,
       "2022-09-11": 19
