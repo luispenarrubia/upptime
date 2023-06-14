@@ -1,7 +1,7 @@
 url: https://soap-etu.six-group.com/healthcheck
 status: degraded
 code: 503
-responseTime: 20808
-lastUpdated: 2023-06-14T16:38:48.594Z
+responseTime: 20983
+lastUpdated: 2023-06-14T17:07:26.524Z
 startTime: Mon Feb 07 2022 14:48:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
