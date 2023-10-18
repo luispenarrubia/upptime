@@ -1,7 +1,7 @@
 url: https://api-etu.six-group.com/healthcheck
-status: up
-code: 200
-responseTime: 545
-lastUpdated: 2023-10-18T16:07:59.143Z
+status: down
+code: 502
+responseTime: 804
+lastUpdated: 2023-10-18T16:58:45.100Z
 startTime: 2022-02-07T14:48:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
