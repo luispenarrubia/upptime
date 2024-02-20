@@ -1,7 +1,7 @@
 url: https://soap.six-group.com/healthcheck
-status: up
-code: 200
-responseTime: 607
-lastUpdated: 2024-02-20T05:07:30.333Z
+status: down
+code: 503
+responseTime: 1139
+lastUpdated: 2024-02-20T05:52:37.787Z
 startTime: 2022-02-07T14:47:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
