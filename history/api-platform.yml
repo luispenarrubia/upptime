@@ -1,7 +1,7 @@
 url: https://api.six-group.com/healthcheck
-status: degraded
-code: 503
-responseTime: 20682
-lastUpdated: 2024-04-02T10:46:03.890Z
+status: down
+code: 502
+responseTime: 648
+lastUpdated: 2024-04-02T11:06:21.934Z
 startTime: 2022-02-07T14:47:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
